@@ -39,7 +39,11 @@ Društvo rizika prolazi kroz tri temeljne transformacije: (Beck 1996 : 29)
 
 3.  Kolektivni izvori značenja se rastaljuju i iscrpljuju + \_\_raščaravaju\_\_ , što teret definiranja prebacuje na pojedince. Durkheim i co. su opisivali sličan proces individualizacije, ali se u tom slučaju radilo o prelasku iz religijsko-transcendentalne sigurnosti u svijet industrijskog društva, dok se u današnjem slučaju radi o prelasku iz industrijskog u društvo rizika. Pojedinci su stoga izloženi životu s raznolikim i kontradiktornim globalnim i osobnim rizicima.
 
-### Društvo rizika: kritika
+### Društvo rizika: kritika (prophet of doom)
+
+#### Irwin
+
+#### Mol & Spaargaren
 
 EkMod
 -----
