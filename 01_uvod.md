@@ -8,10 +8,12 @@ Dunlap i Catton počinju zagovarati reorijentaciju cjelokupne sociologije prema 
 
 Schnaibergov neomarksistički, kritički pogled na nemogućnost očuvanja okoliša bez dubinske reforme kapitalizma…jer će bez temeljite promjene proizvodnih odnosa treadmill mljeti kao i do sada (a reforme se svode na uljepšavanje i greenwash)
 
-1986: Društvo rizika
---------------------
+Društvo rizika
+--------------
 
 Beckova knjiga je završena prije Černobilske katastrofe, a izašla nakon nje, što doprinosi njenoj popularnosti i prihvaćenosti i izvan akademije (v. Irwin 2001).
+
+### Društvo rizika: pregled
 
 Društvo rizika je koncept koji opisuje odnos društva prema suočavanju i refleksiji. Odnosi se na etapu modernizacije u kojoj rizici proizvedeni poratom industrijske proizvodnje postaju dominantni. Ova siutacija postavlja pitanje samoograničavanja ovog razvoja i zadatak redefiniranja ranije postavljenih standarda (odgovornosti, sigurnosti, kontrole, ograničenja štetnosti, distribucije posljedica gubitka) u odnosu s potencijalnim opasnostima. Međutim, rizici ne izmiču samo osjetilnoj percepciji i moći imaginacije, nego i znanosti. Moderna društva su na taj način suočena s principima i ograničenjima svog vlastitog modela onoliko koliko se **nisu** spremna mijenjati, reflektirati posljedice i slijediti industrijske politike još-istoga.
 
@@ -21,7 +23,7 @@ Temeljna teza (generalna) (Irwin 2001 : 51): Sve je otvoreno propitivanju. Svaki
 
 Temeljna teza (u kontekstu soc. okoliša) je da uspjeh modernizacije proizvodi globalne (između ostalog, okolišne) rizike koje (ista ta modernizacija) više ne uspijeva kontrolirati i da je potrebna temeljita reforma modernizacije – refleksivna modernizacija). Ovime je postavljen ogroman zahtjev pred javne politike: „nije više dovoljno povećanje proizvodnje, redistribucija i širenje socijalne zaštite – kao u 19. st. – nego se zahtijeva ili usmjerena i masivna „politika reinterpretacije“ ili fundamentalno promišljanje i reprogramiranje prevladavajuće paradigme modernizacije. (Beck 1992 : 52).
 
-Ekološki problemi su vezani uz širi set društvenih, osobnih i institucionalnih problema koji izmiču jedinstvenom rješenju, jer svako novo rješenje generira nove, i još teže, vlastite probleme.
+Ekološki problemi su vezani uz širi set društvenih, osobnih i institucionalnih problema koji izmiču jedinstvenom rješenju, jer svako novo rješenje generira nove, i još teže, vlastite probleme. OVO JE KRAJNJE VAGUE. ŠTO KAŽE EKOLMOD?
 
 Ekološki problemi su inherentno prožeti nesigurnošću, i obično su nevidljivi. Zahtijevaju opažanje i interpretaciju stručnjaka. Znanost dobiva novo mjesto u društvu – prestaje, uz „istinu“ i „napredak“ biti vodeći princip (guiding principle) društva – nego se sve više bavi problemima koje je sama proizvela „scijentifizirajući“ društvo, i posebno, samu sebe! U kasnoj modernosti ovisimo o znanosti, ali se moramo i boriti protiv nje. To je polazište za refleksivnu modernizaciju. WOW. MUCH COOL.
 
@@ -36,6 +38,8 @@ Društvo rizika prolazi kroz tri temeljne transformacije: (Beck 1996 : 29)
 2.  Proizvedeni rizici i problemi premašuju baze ?? društvenog koncepta sigurnosti, narušavajući pri tome osnovna načela prijašnjeg društvenog poretka. Problemi se očituju u svim poljima (poslovnom svijetu, pravu, visokom školstvu), ali u primarno u području političkih aktivnosti i donošenja odluka.
 
 3.  Kolektivni izvori značenja se rastaljuju i iscrpljuju + \_\_raščaravaju\_\_ , što teret definiranja prebacuje na pojedince. Durkheim i co. su opisivali sličan proces individualizacije, ali se u tom slučaju radilo o prelasku iz religijsko-transcendentalne sigurnosti u svijet industrijskog društva, dok se u današnjem slučaju radi o prelasku iz industrijskog u društvo rizika. Pojedinci su stoga izloženi životu s raznolikim i kontradiktornim globalnim i osobnim rizicima.
+
+### Društvo rizika: kritika
 
 EkMod
 -----
